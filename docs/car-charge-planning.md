@@ -107,7 +107,7 @@ action:
               option: Stopped
             target:
               entity_id: select.myenergi_zappi_charge_mode
-  mode: single
+mode: single
 ```
 
 NOTE: Multiple cars can be planned with Predbat.
